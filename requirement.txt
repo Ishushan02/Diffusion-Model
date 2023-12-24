@@ -1,0 +1,7 @@
+unet==0.7.7
+torch==2.1.0
+torchvision==0.16.0
+matplotlib==3.7.1
+numpy==1.23.5
+Pillow==9.4.0
+opencv-python==4.8.0.74

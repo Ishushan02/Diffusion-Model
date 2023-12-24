@@ -41,4 +41,5 @@
 **The above mentioned procedure is executed in the Python File**
 
 **Run the Project**
-- I would recommend you to run the project in Colab to see each step output for better clarity.
+- I would recommend you to run the project in Colab to see each step output for better clarity at each step.
+- Upload any local image to see the following steps of ipython notebook.
