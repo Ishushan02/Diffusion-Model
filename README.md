@@ -45,3 +45,5 @@ View the File with Result - https://nbviewer.org/github/Ishushan02/Diffusion-Mod
 **Run the Project**
 - I would recommend you to run the project in Colab to see each step output for better clarity at each step.
 - Upload any local image to see the following steps of ipython notebook.
+
+**Note - I have taken certain code Reference from a Nvdia Developer's open Source Contribution**
