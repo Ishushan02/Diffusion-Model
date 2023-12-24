@@ -1,5 +1,7 @@
 # Diffusion-Model
 
+View the File with Result - https://nbviewer.org/github/Ishushan02/Diffusion-Model/blob/main/Diffusion_Model.ipynb
+
 **Inshort Procedures**
 - First we take an Image.
 - Add Gaussian Noise to it.**(Forward Process)** (Gaussian because it is assumed that all data is obtained from certain distribution)
