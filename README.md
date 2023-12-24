@@ -38,7 +38,7 @@
 - continue this till 0 timestamp at at 0 time stamp make variance as 0
 
 
-**The above mentioned procedure is executed in the Python File**
+**The above mentioned procedure is executed in the i-Python File**
 
 **Run the Project**
 - I would recommend you to run the project in Colab to see each step output for better clarity at each step.
